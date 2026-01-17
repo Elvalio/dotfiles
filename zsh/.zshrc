@@ -1,3 +1,7 @@
+# To execute fastfetch properly
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+fastfetch
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -117,6 +121,5 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# Zsh syntax highlighting (doit être chargé en dernier)
+# Zsh syntax highlighting (must be sourced last)
 source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
