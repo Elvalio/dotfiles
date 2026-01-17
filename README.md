@@ -11,7 +11,6 @@
 
 [![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=wayland&logoColor=white)](https://hyprland.org/)
-[![MIT](https://img.shields.io/badge/MIT-9ece6a?style=flat)](LICENSE)
 
 </div>
 
