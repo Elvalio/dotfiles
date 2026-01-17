@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](fastfetch/logos/archlinux.png)
+<img src="fastfetch/logos/archlinux.png" width="150" alt="Banner"/>
 
 **Hyprland-ready terminal dotfiles for Zsh, Kitty, and Fastfetch**
 
